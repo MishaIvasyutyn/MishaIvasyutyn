@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%"  src="computer.gif" alt="cover" />
+![image info](computer.gif)
 </div>
 
 
