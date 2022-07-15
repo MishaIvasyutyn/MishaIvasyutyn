@@ -1,5 +1,5 @@
 <div align="center">
-![image info](computer.gif)
+<img src="https://github.com/MishaIvasyutyn/MishaIvasyutyn/blob/main/computer.gif?raw=true" width="100%">
 </div>
 
 
