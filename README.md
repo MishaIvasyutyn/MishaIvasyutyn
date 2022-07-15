@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%"  src="https://media4.giphy.com/media/ZQBH5pvoyiZSE/giphy.gif?cid=ecf05e479lruyrlt2e1kur74q8mncl93sojo9914d21zdsum&rid=giphy.gif&ct=g" alt="cover" />
+<img width="100%"  src="images/computer.gif" alt="cover" />
 </div>
 
 
